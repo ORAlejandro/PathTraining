@@ -1,0 +1,17 @@
+.formStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.labelLogIn {
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.inputLogIn {
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
